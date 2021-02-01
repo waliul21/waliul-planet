@@ -1,0 +1,25 @@
+.ab-txt{
+    
+    text-transform: uppercase;
+   font-size: 50px;
+   
+}
+.ton-pic{
+    height: 300px;
+    width: 301px;
+    position: relative;
+    float: right;
+    
+}
+.About{
+    background-color: blanchedalmond;
+}
+.about-txt{
+    align-items: center;
+    font-size: 20px;
+    font-weight: 400;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.txtinfo{
+    font-size: 25px;
+}
